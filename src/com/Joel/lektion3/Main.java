@@ -4,6 +4,8 @@ import com.Joel.lektion3.model.Student;
 
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println("first commit?");
         // Instantiate Object
         Student bob = new Student("Bob", 17, true);
         Student klas = new Student("Klas", 24, false);
@@ -24,7 +26,7 @@ public class Main {
        // bob.name = "Bob";
        // bob.age = 21;
        // klas.name = "Klas";
-       // klas.age = 34;
+
 
         //System.out.println(bob.name + " Is " + bob.age + " years old");
         //System.out.println(klas.name + " Is " + klas.age + " years old");
